@@ -1,3 +1,6 @@
+<img width="1533" height="855" alt="Revenue   Collections" src="https://github.com/user-attachments/assets/db57dce0-d0f6-41b4-9842-8c8aa4043154" />
+<img width="1527" height="853" alt="Sales   Lead Performance" src="https://github.com/user-attachments/assets/a392f7dc-d112-409e-86a5-f7daacaaf961" />
+<img width="1783" height="858" alt="Executive Overview" src="https://github.com/user-attachments/assets/a7da7d04-2bb4-4170-9a83-26270a6a6a63" />
 # Groniva Business Performance & Sales Analytics Dashboard
 
 ## Project Overview
