@@ -36,7 +36,11 @@ An interactive, three-page Power BI dashboard built using sample business data t
 - Translating business data into actionable insights
 
 ## Project Files
-- `.pbix` — Power BI report
+Project Files
+
+Download the Power BI Dashboard (.pbix)
+
+View Dashboard Screenshots
 
 -<img width="1533" height="855" alt="Revenue   Collections" src="https://github.com/user-attachments/assets/db57dce0-d0f6-41b4-9842-8c8aa4043154" />
 <img width="1527" height="853" alt="Sales   Lead Performance" src="https://github.com/user-attachments/assets/a392f7dc-d112-409e-86a5-f7daacaaf961" />
