@@ -1,4 +1,35 @@
+## Business Problem
 
+Business stakeholders need a consolidated view of sales performance, deal conversion, and revenue collection. When these metrics are reviewed separately, it can be difficult to identify underperforming lead sources, understand deal losses, compare sales representative performance, and monitor outstanding receivables.
+
+This project uses sample business data to demonstrate how an interactive dashboard can address these reporting and visibility challenges.
+
+## Project Objectives
+
+- Consolidate key sales and financial metrics into a single reporting solution.
+- Monitor total deals, won deals, win rate, and deal value.
+- Evaluate lead-source effectiveness and sales representative performance.
+- Analyze deal loss reasons and identify potential areas for improvement.
+- Track invoicing, collections, closing Annual Recurring Revenue (ARR), and receivables aging.
+- Enable stakeholders to explore performance trends through interactive filters and visualizations.
+
+## Solution
+
+Developed a three-page interactive Power BI dashboard using sample business data, with DAX measures for KPI calculations and visualizations designed around business reporting needs.
+
+- **Executive Overview:** Provides a high-level view of sales KPIs, deal outcomes, lead-source performance, and monthly deal trends.
+- **Sales & Lead Performance:** Supports comparison of lead sources and sales representatives, analysis of deal loss reasons, and evaluation of won deal value by product.
+- **Revenue & Collections:** Presents closing ARR, invoicing, collections, collection rate, and receivables aging to support financial monitoring.
+
+## Expected Business Value
+
+- Faster access to key business performance indicators.
+- Improved visibility into sales conversion and potential performance gaps.
+- Better understanding of deal losses and lead-source effectiveness.
+- More structured monitoring of collections and outstanding receivables.
+- A consistent reporting view to support data-informed business discussions.
+
+*Note: These are intended benefits of the dashboard design, not measured business results from a live company deployment.*
 
 # Groniva Business Performance & Sales Analytics Dashboard
 
