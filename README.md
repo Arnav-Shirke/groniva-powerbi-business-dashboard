@@ -38,19 +38,10 @@ An interactive, three-page Power BI dashboard built using sample business data t
 
 ## Project Files
 - `.pbix` — Power BI report
-- `screenshots/` — Dashboard page previews
-- Dashboard Previews
 
-1. Executive Overview
-
-
-
-2. Sales & Lead Performance
-
-
-
-3. Revenue & Collections
-
+-<img width="1533" height="855" alt="Revenue   Collections" src="https://github.com/user-attachments/assets/db57dce0-d0f6-41b4-9842-8c8aa4043154" />
+<img width="1527" height="853" alt="Sales   Lead Performance" src="https://github.com/user-attachments/assets/a392f7dc-d112-409e-86a5-f7daacaaf961" />
+<img width="1783" height="858" alt="Executive Overview" src="https://github.com/user-attachments/assets/a7da7d04-2bb4-4170-9a83-26270a6a6a63" />
 ## Data Disclaimer
 This is a portfolio project developed using sample data for learning and demonstration purposes. It is not a live business reporting system.
 
