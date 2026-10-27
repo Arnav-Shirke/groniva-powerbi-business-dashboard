@@ -1,3 +1,9 @@
+
+# Groniva Business Performance & Sales Analytics Dashboard
+
+## Project Overview
+An interactive, three-page Power BI dashboard built using sample business data to analyze sales performance, deal conversion, revenue, and collections. The project demonstrates how business intelligence can help stakeholders monitor KPIs and identify performance gaps.
+
 ## Business Problem
 
 Business stakeholders need a consolidated view of sales performance, deal conversion, and revenue collection. When these metrics are reviewed separately, it can be difficult to identify underperforming lead sources, understand deal losses, compare sales representative performance, and monitor outstanding receivables.
@@ -31,10 +37,6 @@ Developed a three-page interactive Power BI dashboard using sample business data
 
 *Note: These are intended benefits of the dashboard design, not measured business results from a live company deployment.*
 
-# Groniva Business Performance & Sales Analytics Dashboard
-
-## Project Overview
-An interactive, three-page Power BI dashboard built using sample business data to analyze sales performance, deal conversion, revenue, and collections. The project demonstrates how business intelligence can help stakeholders monitor KPIs and identify performance gaps.
 
 ## Dashboard Pages
 
